@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧪 Blog Post Viewer App - Internship Task
 
-## Getting Started
+This is a simple blog viewer application built with Next.js and TypeScript, designed to fulfill the requirements of the Buguard internship task. The app fetches and displays posts from a public API, featuring a clean design, pagination, and a dark mode.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
+
+**[[Click here:](https://blog-post-viewer-app-git-main-layla-abdulsalam-ahmeds-projects.vercel.app/posts)]**
+
+---
+
+## ✨ Features
+
+-   **Post Listing (`/posts`):** Fetches and displays a paginated list of all blog posts.
+-   **Post Details (`/posts/[id]`):** Shows the full details of a selected post.
+-   **TypeScript:** Fully typed for robust and maintainable code.
+-   **Next.js App Router:** Utilizes the latest `app/` directory structure for routing and layouts.
+-   **TailwindCSS:** Styled to match the provided Figma design.
+-   **Dark Mode:** A functional, theme-aware dark mode toggle.
+-   **Loading & Error States:** Implemented skeleton loaders and error boundaries for a better UX.
+-   **Dynamic Pagination:** Fully functional pagination to navigate through all blog posts.
+-   **SEO Optimized:** Dynamic metadata for post detail pages.
+-   **Responsive Design:** Looks great on all screen sizes, from mobile to desktop.
+
+---
+
+## 🛠️ Tech Stack
+
+-   **Framework:** [Next.js](https://nextjs.org/)
+-   **Language:** [TypeScript](https://www.typescriptlang.org/)
+-   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+-   **UI/UX:** [Framer Motion](https://www.framer.com/motion/) for animations (Implicitly via Tailwind transitions)
+-   **Icons:** [Lucide React](https://lucide.dev/)
+-   **Deployment:** [Vercel](https://vercel.com/)
+
+---
+
+## ⚙️ Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+-   Node.js (v18 or later)
+-   npm, yarn, or pnpm
+
+### Installation
+
+1.  Clone the repo
+    ```sh
+    git clone https://github.com/LaylaAbdulsalam/Blog-Post-Viewer-App.git
+    ```
+2.  Navigate to the project directory
+    ```sh
+    cd Blog-Post-Viewer-App
+    ```
+3.  Install NPM packages
+    ```sh
+    npm install
+    ```
+4.  Run the development server
+    ```sh
+    npm run dev
+    ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎨 Design Reference
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+The project's UI/UX is based on the following Figma design:
+[Figma Design Link →](https://www.figma.com/design/xH1KctQJ1NRvH5w8aed4n8/The-Blog---Buguard-Task)
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+👩‍💻 Author
+Layla Abdulsalam
+💌 Connect With Me:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+GitHub: @LaylaAbdulsalam
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+LinkedIn: LaylaAbdulsalam
