@@ -6,7 +6,7 @@ This is a simple blog viewer application built with Next.js and TypeScript, desi
 
 ## 🚀 Live Demo
 
-**[[Click here:](https://blog-post-viewer-app-git-main-layla-abdulsalam-ahmeds-projects.vercel.app/posts)]**
+**[[Click here:Blog Post Viewer App](https://blog-post-viewer-app-git-main-layla-abdulsalam-ahmeds-projects.vercel.app/posts)]**
 
 ---
 
