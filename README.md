@@ -76,10 +76,13 @@ The project's UI/UX is based on the following Figma design:
 
 ---
 
-👩‍💻 Author
-Layla Abdulsalam
+## 👩‍💻 Author
+
+
+- **Layla Abdulsalam**
+
 💌 Connect With Me:
 
-GitHub: @LaylaAbdulsalam
+GitHub: [@LaylaAbdulsalam](https://github.com/LaylaAbdulsalam)
 
-LinkedIn: LaylaAbdulsalam
+LinkedIn: [LaylaAbdulsalam](https://www.linkedin.com/in/layla-abdulsalam-092847204/)
